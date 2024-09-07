@@ -15,6 +15,10 @@ const CONFIG = {
       name: `Ghost Locker`,
       href: "https://ghostlocker.vercel.app/",
     },
+    {
+      name: `Retro Age`,
+      href: "https://trulyitzicygaming.github.io/Retroage-Icy/",
+    },
   ],
   // blog setting (required)
   blog: {
