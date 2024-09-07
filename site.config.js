@@ -1,14 +1,15 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "ItzIcyHere",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Crazy Man",
-    bio: "I am a chaotic Man",
-    email: "Brandonrsn0502v2@gmail.com",
-    github: "TrulyItzIcyGaming",
-    instagram: "brandon_scott_rosen",
-  },
+      name: "ItzIcyHere",
+      image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+      role: "Chaotic Source Of Peace?",
+      bio: "I am a force of peace and chaos, get use to it!",
+      email: "Brandonrsn0502v2@gmail.com",
+      linkedin: "N/A",
+      github: "TrulyItzIcyGaming,
+      instagram: "",
+    },
   projects: [
     {
       name: ``,
