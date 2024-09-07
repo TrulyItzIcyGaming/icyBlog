@@ -22,7 +22,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Icy-Log",
+    title: "Icy-Blog",
     description: "welcome to Icy-Log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
