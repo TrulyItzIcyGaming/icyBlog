@@ -12,8 +12,8 @@ const CONFIG = {
     },
   projects: [
     {
-      name: `Chat4Middies`,
-      href: "https://chat4middies.vercel.app/",
+      name: `Middie Success Hub`,
+      href: "N/A",
     },
   ],
   // blog setting (required)
