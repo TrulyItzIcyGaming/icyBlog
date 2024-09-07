@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
       name: "ItzIcyHere",
       image: "/2.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-      role: "Chaotic Source Of Peace?",
-      bio: "I am a force of peace and chaos, get use to it!",
+      role: "Cybersecurity Student",
+      bio: "Running on pure chaos and the occasional ‘oops’ moment. If you’re wondering what’s going on, so am I—but trust me, it’s all part of the grand tech adventure!",
       email: "Brandonrsn0502v2@gmail.com",
       linkedin: "N/A",
       github: "TrulyItzIcyGaming",
