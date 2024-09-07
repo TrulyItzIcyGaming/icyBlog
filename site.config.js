@@ -6,7 +6,7 @@ const CONFIG = {
       role: "Cybersecurity Student",
       bio: "Running on pure chaos and the occasional ‘oops’ moment. If you’re wondering what’s going on, so am I—but trust me, it’s all part of the grand tech adventure!",
       email: "Brandonrsn0502v2@gmail.com",
-      linkedin: "N/A",
+      linkedin: "https://icyblog.vercel.app/",
       github: "TrulyItzIcyGaming",
       instagram: "Brandon_Scott_Rosen",
     },
