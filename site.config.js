@@ -15,6 +15,10 @@ const CONFIG = {
       name: `Middie Success Hub`,
       href: "https://icyblog.vercel.app/",
     },
+    {
+      name: `Ghost Locker`,
+      href: "https://ghostlocker.vercel.app/",
+    },
   ],
   // blog setting (required)
   blog: {
