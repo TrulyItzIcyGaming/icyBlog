@@ -12,10 +12,6 @@ const CONFIG = {
     },
   projects: [
     {
-      name: `Middie Success Hub`,
-      href: "https://icyblog.vercel.app/",
-    },
-    {
       name: `Ghost Locker`,
       href: "https://ghostlocker.vercel.app/",
     },
