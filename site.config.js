@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Middie Success Hub`,
-      href: "N/A",
+      href: "https://icyblog.vercel.app/",
     },
   ],
   // blog setting (required)
