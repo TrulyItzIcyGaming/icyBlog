@@ -7,7 +7,7 @@ const CONFIG = {
       bio: "I am a force of peace and chaos, get use to it!",
       email: "Brandonrsn0502v2@gmail.com",
       linkedin: "N/A",
-      github: "TrulyItzIcyGaming,
+      github: "TrulyItzIcyGaming",
       instagram: "",
     },
   projects: [
